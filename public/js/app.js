@@ -16,12 +16,13 @@ $(document).ready(function(){
     })
     .on('form:submit', function() {
         notify('success', 'Data Sudah Tersimpan');
+        resetForm();
         return false;
     });
 });
 
 function resetForm() {
-    $('form')
+    $('[data-form-registration]')[0].reset();
 }
 
 function notify(type, message) {

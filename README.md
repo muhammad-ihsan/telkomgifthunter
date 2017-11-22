@@ -1,11 +1,17 @@
-#### Frontend Tools:
+# Demo
+
+[Openshift by Redhat Cloud](http://telkomgifthunter-telkomgifthunter.a3c1.starter-us-west-1.openshiftapps.com/)
+
+
+
+# Frontend Tools:
 
 1. [Bower](http://bower.io)
 2. [Gulp](https://gulpjs.com/)
 
 
 
-#### Bower Components List:
+# Bower Components List:
 
 1. [Bootstrap ver.3](http://getbootstrap.com)
 2. [Parsleyjs ver.2](http://parsleyjs.org/)

@@ -1,0 +1,23 @@
+{
+  "name": "telkomgifthunter",
+  "authors": [
+    "Muhammad Ihsan <muhammad-ihsan@outlook.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.*",
+    "parsleyjs": "^2.8.0",
+    "remarkable-bootstrap-notify": "^3.1.3",
+    "animate.css": "^3.5.2"
+  }
+}
